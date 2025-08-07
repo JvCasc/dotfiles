@@ -1,4 +1,4 @@
-# [KDE] Linux ricing
+# 🐧 [KDE] Linux ricing
 
 ![Image_Alt](wallpaper/print.png)
 
